@@ -24,8 +24,3 @@ This project demonstrates the use of **Selenium WebDriver** with **C#** for brow
 2. **.NET Framework** (or .NET Core/5/6) installed on your machine.
 3. **Selenium WebDriver** NuGet package installed in the project.
 4. **WebDriverManager** NuGet package for managing browser drivers.
-
-### Installation Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/selenium-automation-csharp.git
